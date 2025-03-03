@@ -15,5 +15,5 @@ Outside of academics, I love experimenting with new coding projects, keeping up 
 - Elementary: Pampang Elementary School
 
 ## My Projects
-- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL]
+- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Mid%20Term%20Lab%20Task%201)
 - Midterm Lab Task 2: [Data Modeling using Power Query]()
