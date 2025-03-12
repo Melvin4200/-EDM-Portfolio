@@ -20,7 +20,7 @@ Select the "Uncleaned_DS_jobs.csv" and load it.
 Duplicate the raw data for backup.
 Clean and transform the data to answer the above questions.
 ## 2. Screenshot of the Dataset Before Cleaning and Transformation
-![Before](file/luna6.png)
+![Before](file/samia6.png)
 ### Screenshot Description:
 The raw dataset consists of several columns, such as job title, company size, salary estimates, location, etc. These columns are often uncleaned, containing extra spaces, special characters, inconsistent values, and more, which need to be cleaned and transformed before analysis.
 
@@ -59,12 +59,12 @@ Proof of Data Cleaning:
 Copy and paste the applied steps from the Power Query Editor for documentation.
 
 ## 4. Final Output (Screenshot of the Final Queries)
-![Final Queries](file/luna%201.png)
-![Final Queries](file/luna4.png)
-![Final Queries](file/luna7.png)
-![Final Queries](file/luna2.png)
+![Final Queries](file/samia1.png)
+![Final Queries](file/samia4.png)
+![Final Queries](file/samia7.png)
+![Final Queries](file/samia2.png)
 ## Dependencies and References of the QUERIES
-![Dependencies and References of the QUERIES](file/luna3.png)
+![Dependencies and References of the QUERIES](file/samia3.png)
 ### Final Queries:
 The final queries should consist of the following cleaned and transformed datasets:
 
