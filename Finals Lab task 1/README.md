@@ -80,8 +80,8 @@ employee_id INT(3), FOREIGN KEY(employee_id) REFERENCES employees_tbl(employee_i
 
 <!--SQL FILES-->
 ## HERE IS MY SQL FILE
-[employees Table](file/multi_level_company_db_employee_projects_tbl.sql)  
-[departments Table](file/multi_level_company_db_departments_tbl.sql)  
-[employee departments Table](file/multi_level_company_db_employee_departments_tbl.sql)  
-[employee projects Table](file/multi_level_company_db_employee_projects_tbl.sql)  
-[managers Table](file/multi_level_company_db_managers_tbl.sql)  
+[employees Table](file/multi_level_company_employee_projects.sql)  
+[departments Table](file/multi_level_company_employee_departments.sql)  
+[employee departments Table](file/multi_level_company_employee_departments.sql)  
+[employee projects Table](file/multi_level_company_employee_projects.sql)  
+[managers Table](file/multi_level_company_managers.sql)  
