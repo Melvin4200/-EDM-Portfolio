@@ -20,25 +20,25 @@ submissions, and assignments. Identify the primary and foreign keys and ensure p
 - Use the database that has created by using  
   `USE database_name`
 ### Type the following data types attributes
-![](image/ftask%202.1.png)
+![](image/Attributes.png)
 - Creating Student Table  
 `CREATE TABLE student_tbl(username VARCHAR(50)PRIMARY KEY NOT NULL UNIQUE);`
 #### TABLE STRUCTURE
-![](image/copy1.png)
+![](iimage/ftask%202.1.png)
 
 - Creating Submission Table  
 ` username VARCHAR(50), FOREIGN KEY (username) REFERENCES student_tbl(username), shortname VARCHAR(50), FOREIGN KEY(shortname) REFERENCES assignment_tbl(shortname) ON DELETE CASCADE
 ON UPDATE CASCADE, version INT NOT NULL, submit_date DATE NOT NULL, data TEXT, PRIMARY KEY(username, shortname, version));`
 #### TABLE STRUCTURE
-![](image/copy%202.png)
+![](image/ftask2.2.png)
 
 - Creating Assignment Table  
 `CREATE TABLE assignment_tbl (shortname  VARCHAR(50) NOT NULL PRIMARY KEY , due_date DATE NOT NULL, url VARCHAR(255) UNIQUE);`
 #### TABLE STRUCTURE
-![](image/copy%203.png)
+![](image/ftask2.3.png)
 
 ### HERE IS THE ER Diagram OR Relational schema
-![](image/erd%20model1.png)
+![](image/ftask2%20ERD.png)
 
 
 #### HERE IS THE MYSQL FILE
