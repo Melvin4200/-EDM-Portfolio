@@ -61,4 +61,4 @@ CODE: `ALTER TABLE products MODIFY product_name VARCHAR(120) NOT NULL;`
 ## HERE IS MYSQL FILE
  [Database.SQL](file/view.htm#L5)
  
- [Products_Table.SQL](Image%20%26%20File/products_tbl.sql)
+ [Products_Table.SQL](file/store_db_products.sql)
