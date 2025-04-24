@@ -20,7 +20,7 @@ submissions, and assignments. Identify the primary and foreign keys and ensure p
 - Use the database that has created by using  
   `USE database_name`
 ### Type the following data types attributes
-![](image/ftask2.2.png)
+![](image/ftask%202.1.png)
 - Creating Student Table  
 `CREATE TABLE student_tbl(username VARCHAR(50)PRIMARY KEY NOT NULL UNIQUE);`
 #### TABLE STRUCTURE
