@@ -16,7 +16,7 @@ Outside of academics, I love experimenting with new coding projects, keeping up 
 
 ## My Projects
 - Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Mid%20Term%20Lab%20Task%201)
-- Midterm Lab Task 2: [Data Modeling using Power Query]Mid%20Term%20Lab%20Task%202)
+- Midterm Lab Task 2: [Data Modeling using Power Query](Mid%20Term%20Lab%20Task%202)
 -  Finals Lab Task 1: [MySQL Basics](Finals%20Lab%20task%201)
 -  Finals Lab Task 2: [Transforming ER Model to Relational Tables](Finals%20Lab%20task%202s)
 -  Finals Lab Task 3: [Table Manipulation](Finals%20Lab%20task%203)
