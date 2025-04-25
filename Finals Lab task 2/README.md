@@ -42,7 +42,7 @@ ON UPDATE CASCADE, version INT NOT NULL, submit_date DATE NOT NULL, data TEXT, P
 
 
 #### HERE IS THE MYSQL FILE
-[Student Table](file/assignment_submission_db_student_tbl.sql)  
-[Submission Table](file/assignment_submission_db_submission_tbl.sql)  
-[Assignment Table](file/assignment_submission_db_assignment_tbl.sql)  
+[Student Table](file/student_db_student_tbl.sql)  
+[Submission Table](file/student_db_submission_tbl.sql)  
+[Assignment Table](file/student_db_assignment_tbl.sql)  
 
